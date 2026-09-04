@@ -1,3 +1,2 @@
 # Python-Project
-This is the repo for python projects made during learning python.
-
+This repository contains Python projects created while learning Python.
